@@ -1,8 +1,10 @@
 16-Sep-2026
 
-<!-- notify 1/2 · 9ozYGrYg -->
-## Notification 1/2
-Round: Round 1
-To: angelt2002@yahoo.com, angelt2077@yahoo.com
-At: 2026-09-16 15:51:46
-Id: 9ozYGrYg
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: angelt224@yahoo.com, angeltaz697@yahoo.com
+At: 2026-09-16 15:52:01
+Id: cFAnlzgQ
